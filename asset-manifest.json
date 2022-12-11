@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactLab2/static/css/main.d7e3adb2.css",
-    "main.js": "/reactLab2/static/js/main.7ee78cf2.js",
+    "main.js": "/reactLab2/static/js/main.90a552df.js",
     "static/js/787.858e52bd.chunk.js": "/reactLab2/static/js/787.858e52bd.chunk.js",
     "static/media/2.jpg": "/reactLab2/static/media/2.462670dc2acb646676c9.jpg",
     "static/media/KupalaMain.jpg": "/reactLab2/static/media/KupalaMain.97b4d4e3f2e1f4458d62.jpg",
@@ -25,11 +25,11 @@
     "index.html": "/reactLab2/index.html",
     "static/media/getFetch.cjs": "/reactLab2/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.d7e3adb2.css.map": "/reactLab2/static/css/main.d7e3adb2.css.map",
-    "main.7ee78cf2.js.map": "/reactLab2/static/js/main.7ee78cf2.js.map",
+    "main.90a552df.js.map": "/reactLab2/static/js/main.90a552df.js.map",
     "787.858e52bd.chunk.js.map": "/reactLab2/static/js/787.858e52bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7e3adb2.css",
-    "static/js/main.7ee78cf2.js"
+    "static/js/main.90a552df.js"
   ]
 }
