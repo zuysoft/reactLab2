@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7e3adb2.css",
-    "main.js": "/static/js/main.d4ce7f88.js",
+    "main.js": "/static/js/main.f0264dd3.js",
     "static/js/787.858e52bd.chunk.js": "/static/js/787.858e52bd.chunk.js",
     "static/media/2.jpg": "/static/media/2.462670dc2acb646676c9.jpg",
     "static/media/KupalaMain.jpg": "/static/media/KupalaMain.97b4d4e3f2e1f4458d62.jpg",
@@ -25,11 +25,11 @@
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.d7e3adb2.css.map": "/static/css/main.d7e3adb2.css.map",
-    "main.d4ce7f88.js.map": "/static/js/main.d4ce7f88.js.map",
+    "main.f0264dd3.js.map": "/static/js/main.f0264dd3.js.map",
     "787.858e52bd.chunk.js.map": "/static/js/787.858e52bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7e3adb2.css",
-    "static/js/main.d4ce7f88.js"
+    "static/js/main.f0264dd3.js"
   ]
 }
